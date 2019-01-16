@@ -1,0 +1,136 @@
+mcelog: mcelog server already running
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 14060a086 ADDR 36b2196140 
+TIME 1520657694 Fri Mar  9 22:54:54 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 4060e086 ADDR 36b2196140 
+TIME 1520657708 Fri Mar  9 22:55:08 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 405e0286 ADDR 36b2196140 
+TIME 1520657720 Fri Mar  9 22:55:20 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 1504eb286 ADDR 36b2196140 
+TIME 1520657743 Fri Mar  9 22:55:43 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 1405cda86 ADDR 36b2196140 
+TIME 1520657759 Fri Mar  9 22:55:59 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 4060d486 ADDR 36b2196140 
+TIME 1520657762 Fri Mar  9 22:56:02 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 1504ebc86 ADDR 36b2196140 
+TIME 1520657773 Fri Mar  9 22:56:13 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 4060da86 ADDR 36b2196140 
+TIME 1520657778 Fri Mar  9 22:56:18 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
+Hardware event. This is not a software error.
+MCE 0
+CPU 16 BANK 7 
+MISC 140600c86 ADDR 36b2196140 
+TIME 1520657788 Fri Mar  9 22:56:28 2018
+MCG status:
+MCi status:
+Corrected error
+MCi_MISC register valid
+MCi_ADDR register valid
+MCA: MEMORY CONTROLLER RD_CHANNEL0_ERR
+Transaction: Memory read error
+STATUS 8c00004000010090 MCGSTATUS 0
+MCGCAP 7000c16 APICID 20 SOCKETID 1 
+CPUID Vendor Intel Family 6 Model 79
